@@ -69,7 +69,11 @@ This dashboard is Part 2 of an ongoing Power BI portfolio series:
 
 ## Screenshots
 
-*Screenshots coming soon — see dashboard PDF in repo for full interactive view*
+![FWA Dashboard Overview](Screenshot-Healthcare-FWA-Dashboard.png)
+
+![Denial Rate Analysis](Screenshot-Healthcare-FWA-Dashboard-Denial.png)
+
+![High Cost Patients Table](Screenshot-High-Cost-Patients.png)
 
 ---
 
